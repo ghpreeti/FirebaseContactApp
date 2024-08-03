@@ -39,3 +39,11 @@ Make sure you have the following installed on your local machine:
 1. Clone the repo
    ```sh
    git clone https://github.com/your-username/FirebaseContactApp.git
+2.Navigate to the project directory
+   ```sh
+    cd FirebaseContactApp
+3.Install NPM packages
+
+   
+
+   
